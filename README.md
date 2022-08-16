@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm D'Angelo Dario</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/11419536-Deep-Working?utm_source=Clipboard_Shot&utm_campaign=katalea02&utm_content=Deep%20Working&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=katalea02&utm_content=Deep%20Working&utm_medium=Social_Share"
+img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/bda478155d860d7efcdd05ed0492827f/3a5b6f2b0cb069d1-db/s540x810/c17a9f0e94900730c8e348a24e98228340e04c30.gifv"
 
 
 - 📫 How to reach me **https://www.linkedin.com/in/dario-d-angelo-b65622223/**
