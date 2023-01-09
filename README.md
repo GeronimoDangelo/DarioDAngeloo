@@ -1,4 +1,4 @@
-![MasterHead](https://snyk.io/wp-content/uploads/blog-banner-github-scanning.png)
+
 <h1 align="center">Hi 👋, I'm D'Angelo Dario</h1>
 <h3 align="center">Mobile Developer</h3>
 
