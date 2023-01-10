@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm D'Angelo Dario</h1>
+<h1 align="center"> Dario D'Angelo</h1>
 <h3 align="center">Android Mobile Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQat3-UhSVSJmKQUC3thkp5TfyoVkW7vgnbS1PlVxx9fzuOXUOM_en-L5aJ3dh1dJTuV0&usqp=CAU">
