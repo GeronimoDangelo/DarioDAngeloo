@@ -12,9 +12,6 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dariodangeloo&show_icons=true&locale=en&layout=compact" alt="dariodangeloo" /></p>
-
-
 # 🌲  Some of my Latest Apps 👇 
 
 ## Android Coffee ☕ 
