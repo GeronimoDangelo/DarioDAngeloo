@@ -14,7 +14,14 @@
 
 # 🌲  Some of my Latest Apps 👇 
 
-## Android Coffee ☕ 
+
+[![5a902dbf7f96951c82922875](https://user-images.githubusercontent.com/108690292/213729487-41b4cf8e-f4c3-4fa2-845a-bfa2f2bd1dea.png)
+](https://play.google.com/store/apps/details?id=com.coffee.bookapp)
+
+###  🌲 Download for free in Google Play Store 👆
+
+
+# Android Coffee ☕ 
 
 This Document will help you to fully view the project and understand the app.
 
@@ -50,7 +57,7 @@ with **Kotlin, XML and Jetpack Compose.**
  We create a *docker enviroment* and a *dockerfile* to upload the
 backend server to *"render (web app)"* so anyone can use it. 
 
-
+#### If you want to use my API REST here it is:   [API of this app](https://fine-o4pw.onrender.com/)
 
 #
 ### Android Studio Tech Used
@@ -81,8 +88,6 @@ backend server to *"render (web app)"* so anyone can use it.
 ##  📽️ App Demostration (video)
 
 Here i'm posting 2 differents preview of the same app but the first one is the "Day Mode" and the second one is for "Night Mode"...
-
-#### TwiTech is my username in the google playstore as developer!
 
 
 - [Day mode | Video overview of the entiry app ](https://user-images.githubusercontent.com/108690292/211670636-dfffc1a5-c7c6-4038-951f-e995e202de76.mp4)
