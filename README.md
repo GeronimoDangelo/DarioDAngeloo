@@ -4,7 +4,7 @@
 
 
 
-- 📫 How to reach me **https://www.linkedin.com/in/dario-d-angelo-b65622223/**
+
 
 
 <h3 align="left">Languages and Tools:</h3>
